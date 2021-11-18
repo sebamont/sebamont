@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pyplan](pyplan.com)
 
-- 👨‍💻 All of my projects are available at [sebamont.xyz](sebamont.xyz)
+- 👨‍💻 Some of my projects are available at [seba-mont-portfolio.vercel.app](seba-mont-portfolio.vercel.app)
 
 - 📫 How to reach me **sebamontagna@gmail.com**
 
